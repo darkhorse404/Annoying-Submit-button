@@ -1,2 +1,21 @@
-# Annoying-Submit-button
-This mini-project uses HTML, CSS and JS to make a simple form with some input fields and a 'Submit' button which runs away from the user's cursor and doesn't let the user submit unless all the entered details are valid.
+# Annoying SUBMIT Button
+
+A simple html form with an 'Annoying' SUBMIT button that runs away whenever you go to click it until and unless all your entered details are valid.
+
+
+## Preview
+
+![Preview screenshot](Preview.png)
+
+
+## Additional Credits
+
+[Font Awesome](https://fontawesome.com)
+
+[Bootstrap](https://getbootstrap.com)
+
+
+## Author's Note
+I had contributed to Open Source with this project, and due to shortage of time at that moment, I could not make this more beautiful.
+
+Thank you!
